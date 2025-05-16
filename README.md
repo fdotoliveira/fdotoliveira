@@ -13,13 +13,11 @@
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,py,c,cpp,mysql,postgres,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,py,c,cpp)](https://skillicons.dev)
 
-### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kubernetes,gcp)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,postman,notion,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,postman)](https://skillicons.dev)
 
 
 <div align="center">
