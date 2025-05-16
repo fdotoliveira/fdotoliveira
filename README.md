@@ -18,7 +18,7 @@
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)
 
-#### DevOps
+### DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gcp)](https://skillicons.dev)
 
 ### Technologies & Tools
