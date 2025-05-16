@@ -37,5 +37,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fdotoliveira}/count.svg" /></p> 
 <br></div>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<h3 align="center"> Thanks for visiting my profile. </h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
