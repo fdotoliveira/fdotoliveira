@@ -57,5 +57,5 @@
  </div>
 </p>
 
-<h3 align="center"> Thanks for visiting my profile. </h3>
+<h3 align="center"> Thanks for visiting my profile </h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
