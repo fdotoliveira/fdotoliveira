@@ -35,20 +35,25 @@
 ### GitHub Activity
 <p align="center">
   <a href="https://github.com/fdotoliveira">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=fdotoliveira&theme=aura&hide_border=false&border_radius=10" />
+    <img
+      align="center"
+      height="150em"
+      alt="GitHub Stats"
+      src="https://streak-stats.demolab.com?user=fdotoliveira&theme=aura&hide_border=false&border_radius=10&cache_seconds=21600&v=3"
+    />
   </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/fdotoliveira">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdotoliveira&theme=aura"
+  <a href="https://github.com/fdotoliveira">
+    <img
+      align="center"
+      height="150em"
+      alt="GitHub Stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdotoliveira&theme=aura&cache_seconds=21600&v=3"
     />
+  </a>
 </p>
-
 
 <div align="center">
   <a href = "mailto:fdotoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
