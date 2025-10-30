@@ -28,7 +28,6 @@
 ![Linux](https://camo.githubusercontent.com/0b0cf784dfb82093383ae258556cc8a2d4e8d71e77d84580cef88265459efb50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578266c6f676f436f6c6f723d7768697465) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
