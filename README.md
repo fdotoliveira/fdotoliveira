@@ -15,8 +15,8 @@
 ### Main skills  
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-[![Go](https://camo.githubusercontent.com/a8a99d95d7ca54286dbdbbfd126b05ae594fce221aa7fc7da46b8d9ce7b59460/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6c616e672d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d676f266c6f676f436f6c6f723d7768697465)](https://github.com/golang)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) 
+[![Go](https://camo.githubusercontent.com/a8a99d95d7ca54286dbdbbfd126b05ae594fce221aa7fc7da46b8d9ce7b59460/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6c616e672d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d676f266c6f676f436f6c6f723d7768697465)](https://github.com/golang)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![MySQL](https://camo.githubusercontent.com/6d78799dd54c79d957c92e14bad44c8dd52e255b842c4ae3322a212c608ae41e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465) 
