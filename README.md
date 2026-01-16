@@ -4,10 +4,11 @@
 
 
 <h3 align="center">Back-end Developer</h3>
-<p>
-  Currently working at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.<br>
-  Interested in Golang, Docker, Kubernetes.
-</p>
+
+### About me
+Bachelor’s degree in Computer Science from [USP](https://www5.usp.br/).  
+Currently working at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
+Interested in Elixir, Golang, Docker, and Kubernetes.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fkfelipefk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
