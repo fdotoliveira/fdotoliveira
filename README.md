@@ -7,7 +7,7 @@
 
 ### About me
 Bachelor’s degree in Computer Science from [USP](https://www5.usp.br/).  
-Currently working at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
+Currently working with Elixir and Ruby at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
 Interested in Elixir, functional programming, and distributed systems.  
 Also exploring Docker and Kubernetes.
 
