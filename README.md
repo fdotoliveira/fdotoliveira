@@ -41,7 +41,7 @@ Also exploring Docker and Kubernetes.
       align="center"
       height="150em"
       alt="GitHub Stats"
-      src="https://streak-stats.demolab.com?user=fdotoliveira&theme=aura&hide_border=false&border_radius=10&cache_seconds=21600&v=3"
+      src="https://streak-stats.demolab.com?user=fdotoliveira&theme=aura&hide_border=false&border_radius=10"
     />
   </a>
 </p>
@@ -52,7 +52,7 @@ Also exploring Docker and Kubernetes.
       align="center"
       height="150em"
       alt="GitHub Stats"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdotoliveira&theme=aura&cache_seconds=21600&v=3"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdotoliveira&theme=aura"
     />
   </a>
 </p>
