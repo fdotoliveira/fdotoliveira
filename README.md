@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe;Be+Welcome!+:D)](https://git.io/typing-svg)
 
 
-<h3 align="center">Back-end Developer</h3>
+<h2 align="center">Back-end Developer</h2>
 
 ## About me
 Bachelor’s degree in Computer Science from [USP](https://www5.usp.br/).  
