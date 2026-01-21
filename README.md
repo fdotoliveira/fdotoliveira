@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <h3 align="center">Back-end Developer</h3>
-
 
 ## About me
 Bachelor’s degree in Computer Science from [USP](https://www5.usp.br/).  
@@ -12,7 +10,6 @@ Currently working with Elixir, Ruby, and a bit of Go at <a href="https://www.pet
 Interested in Elixir, Docker, and Kubernetes.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fkfelipefk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 ## Main skills
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) 
@@ -62,6 +59,7 @@ Interested in Elixir, Docker, and Kubernetes.
   </a>
  </div>
 </p>
+
 
 <h3 align="center"> Thanks for visiting my profile </h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
