@@ -6,7 +6,7 @@
 
 ## About me
 Bachelor’s degree in Computer Science from [USP](https://www5.usp.br/).  
-Currently working with Ruby, Elixir, and a bit of Go at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
+Currently working with Ruby, Go, and a bit of Elixir at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
 Interested in Golang, Docker, and Kubernetes.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fkfelipefk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -14,8 +14,8 @@ Interested in Golang, Docker, and Kubernetes.
 ## Main skills
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-45b8d8?style=for-the-badge&logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-2088FF?style=for-the-badge&logo=mysql&logoColor=white)
