@@ -10,9 +10,8 @@ Currently working with Ruby, Go, and a bit of Elixir at <a href="https://www.pet
 Interested in Golang, Docker, and Kubernetes.
 
 ## Main skills
+![Go](https://img.shields.io/badge/Go-45b8d8?style=for-the-badge&logo=go&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Go](https://img.shields.io/badge/Go-45b8d8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-2088FF?style=for-the-badge&logo=mysql&logoColor=white)
