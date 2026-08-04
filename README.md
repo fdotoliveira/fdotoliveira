@@ -6,7 +6,7 @@
 
 ## About me
 Bachelor’s degree in Computer Science from [USP](https://www5.usp.br/).  
-Currently working with Ruby, Go, and a bit of Elixir at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
+Currently working with Go, Ruby, and a bit of Elixir at <a href="https://www.petlove.com.br" target="_blank">Petlove</a>.  
 Interested in Golang, Docker, and Kubernetes.
 
 ## Main skills
